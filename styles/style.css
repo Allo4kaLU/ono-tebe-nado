@@ -25,6 +25,14 @@
   list-style: none;
 }
 
+.header__link {
+  text-decoration: none;
+}
+
+.header__link_active {
+  text-decoration: underline;
+}
+
 .header__logo-image {
   width: 148px;
   height: 105px;
