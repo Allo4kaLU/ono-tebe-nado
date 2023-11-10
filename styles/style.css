@@ -5,6 +5,10 @@
   background-color: #fff;
 }
 
+html {
+  scroll-behavior: smooth; 
+ }
+ 
 .header {
   display: flex;
   align-items: center;
